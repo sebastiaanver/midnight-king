@@ -1,4 +1,4 @@
-# CARL GUSTAF WE LOVE YOU :heart:
+# MIDNIGHT HACK -- CARL GUSTAF WE LOVE YOU :heart:
 
 You have FIVE minutes to replicate the website. You can check the Internet but you CANNOT preview what you are coding in the browser. You can download pictures, search for code examples and use them. When you are done, add, commit and push your file!
 
