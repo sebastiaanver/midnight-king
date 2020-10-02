@@ -11,11 +11,13 @@ You have FIVE minutes to replicate the website. You can check the Internet but y
 
 ## How to submit
 - Edit `index.html` in YOUR FOLDER, **you can do that directly in GitHub**.
-- If you are editing online, commit and make a pull request (three times the green button) **and you are done**.
-- Otherwise you have to
-  + clone the repository
+- If you are editing the file on github in your browser, just press commit below and make a pull request (three times the green button) **and you are done**.
+- Otherwise you need to:
+  + clone the repository `git clone https://github.com/kthaisociety/midnight-king.git`
   + make a branch with `git checkout -b NAME`.
   + Add your changed file with `git add .`.
   + Commit your changes with `git commit -m "I (don't) love the king"`.
   + Push it with `git push`.
   + Make a pull request via GitHub UI.
+
+Make sure to push your code before the time runs out!
