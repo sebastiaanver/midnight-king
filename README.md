@@ -10,7 +10,10 @@ You have FIVE minutes to replicate the website. You can check the Internet but y
 - You can use pictures from the Internet.
 
 ## How to submit
-- Edit `index.html` in YOUR FOLDER.
-- Add your changed with `git add .`.
+- Edit `index.html` in YOUR FOLDER, **you can do that directly in GitHub**.
+- If you are editing online, commit and make a pull request (three times the green button) **and you are done**.
+- Otherwise make a branch with `git checkout -b NAME`.
+- Add your changed file with `git add .`.
 - Commit your changes with `git commit -m "I (don't) love the king"`.
 - Push it with `git push`.
+- Make a pull request via GitHub UI.
