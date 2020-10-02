@@ -7,7 +7,7 @@ You have FIVE minutes to replicate the website. You can check the Internet but y
 - No JavaScript is allowed.
 - You cannot check your code in the browser (nor any other tool).
 - You CAN "steal" code :D!
-- You can use pictures from the Internet.
+- You can use pictures from the Internet (link to it using `<img src="URL_HERE">`).
 
 ## How to submit
 - Edit `index.html` in YOUR FOLDER, **you can do that directly in GitHub**.
