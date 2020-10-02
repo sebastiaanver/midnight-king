@@ -10,8 +10,8 @@ You have FIVE minutes to replicate the website. You can check the Internet but y
 - You can use pictures from the Internet (link to it using `<img src="URL_HERE">`).
 
 ## How to submit
-- Edit `index.html` in YOUR FOLDER, **you can do that directly in GitHub**.
-- If you are editing the file on github in your browser, just press commit below and make a pull request (three times the green button) **and you are done**.
+- Edit `index.html` in YOUR FOLDER, **you can do that directly in here on GitHub.com**.
+- If you are editing in-browser, just press commit below and make a pull request (three times the green button) **and you are done**.
 - Otherwise you need to:
   + clone the repository `git clone https://github.com/kthaisociety/midnight-king.git`
   + make a branch with `git checkout -b NAME`.
@@ -20,4 +20,4 @@ You have FIVE minutes to replicate the website. You can check the Internet but y
   + Push it with `git push`.
   + Make a pull request via GitHub UI.
 
-Make sure to push your code before the time runs out!
+Make sure to make your commit and pull request before the time runs out!
